@@ -1,0 +1,300 @@
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 75.148
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 66.496
+
+Index = 0
+_solve_time = 74.7
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 73.632
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 61.696
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 71.424
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 60.348
+
+Index = 0
+_solve_time = 62.76
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 73.936
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 72.864
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 118.708
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 120.304
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 127.108
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 131.16
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 130.964
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 126.42
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+

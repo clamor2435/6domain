@@ -1,0 +1,369 @@
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 56
+_solve_time = 38.252
+
+Index = 56
+_solve_time = 36.692
+
+Index = 54
+_solve_time = 40.084
+
+Index = 54
+_solve_time = 39.868
+
+Index = 54
+_solve_time = 23.696
+
+Index = 30
+_solve_time = 23.976
+
+Index = 32
+_solve_time = 22.82
+
+Index = 56
+_solve_time = 26.384
+
+Index = 52
+_solve_time = 28.808
+
+Index = 54
+_solve_time = 33.224
+
+Index = 12
+_solve_time = 17.756
+
+Index = 32
+_solve_time = 43.168
+
+Index = 0
+_solve_time = 0
+
+Index = 52
+_solve_time = 18.704
+
+Index = 52
+_solve_time = 21.332
+
+Index = 52
+_solve_time = 32.424
+
+Index = 34
+_solve_time = 20.012
+
+Index = 0
+_solve_time = 0
+
+Index = 52
+_solve_time = 34.368
+
+Index = 52
+_solve_time = 64.084
+
+Index = 48
+_solve_time = 24.652
+
+Index = 54
+_solve_time = 46.876
+
+Index = 54
+_solve_time = 65.276
+
+Index = 0
+_solve_time = 0
+
+Index = 34
+_solve_time = 39.224
+
+Index = 34
+_solve_time = 27.976
+
+Index = 32
+_solve_time = 32.148
+
+Index = 32
+_solve_time = 20.624
+
+Index = 54
+_solve_time = 40.04
+
+Index = 50
+_solve_time = 39.436
+
+Index = 32
+_solve_time = 11.292
+
+Index = 54
+_solve_time = 37.516
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 54
+_solve_time = 19.652
+
+Index = 52
+_solve_time = 8.908
+
+Index = 54
+_solve_time = 28.608
+
+Index = 0
+_solve_time = 0
+
+Index = 54
+_solve_time = 21.684
+
+Index = 0
+_solve_time = 6.264
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 6.812
+
+Index = 52
+_solve_time = 33.452
+
+Index = 34
+_solve_time = 10.688
+
+Index = 54
+_solve_time = 18.136
+
+Index = 52
+_solve_time = 21.58
+
+Index = 32
+_solve_time = 9.24
+
+Index = 54
+_solve_time = 32.592
+
+Index = 12
+_solve_time = 8.872
+
+Index = 0
+_solve_time = 0
+
+Index = 56
+_solve_time = 34.352
+
+Index = 56
+_solve_time = 20.612
+
+Index = 54
+_solve_time = 18.76
+
+Index = 52
+_solve_time = 26.296
+
+Index = 0
+_solve_time = 0
+
+Index = 54
+_solve_time = 11.624
+
+Index = 30
+_solve_time = 17.956
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 56
+_solve_time = 28.128
+
+Index = 0
+_solve_time = 0
+
+Index = 52
+_solve_time = 26.236
+
+Index = 50
+_solve_time = 18.424
+
+Index = 56
+_solve_time = 21.316
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 54
+_solve_time = 14.6
+
+Index = 54
+_solve_time = 19.608
+
+Index = 52
+_solve_time = 15.196
+
+Index = 34
+_solve_time = 21.956
+
+Index = 0
+_solve_time = 0
+
+Index = 54
+_solve_time = 31.316
+
+Index = 32
+_solve_time = 16.348
+
+Index = 54
+_solve_time = 26.384
+
+Index = 52
+_solve_time = 17.02
+
+Index = 32
+_solve_time = 18.416
+
+Index = 0
+_solve_time = 6.272
+
+Index = 56
+_solve_time = 25.692
+
+Index = 32
+_solve_time = 12.752
+
+Index = 0
+_solve_time = 0
+
+Index = 54
+_solve_time = 15.604
+
+Index = 52
+_solve_time = 32.048
+
+Index = 54
+_solve_time = 17.808
+
+Index = 12
+_solve_time = 6.36
+
+Index = 0
+_solve_time = 0
+
+Index = 52
+_solve_time = 30.696
+
+Index = 54
+_solve_time = 13.908
+
+Index = 0
+_solve_time = 0
+
+Index = 56
+_solve_time = 26.74
+
+Index = 52
+_solve_time = 24.264
+
+Index = 56
+_solve_time = 21.144
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 52
+_solve_time = 24.272
+
+Index = 54
+_solve_time = 15.204
+
+Index = 34
+_solve_time = 13.544
+
+Index = 0
+_solve_time = 0
+
+Index = 34
+_solve_time = 21.836
+
+Index = 54
+_solve_time = 14.256
+
+Index = 0
+_solve_time = 0
+
+Index = 56
+_solve_time = 18.456
+
+Index = 56
+_solve_time = 28.368
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 34
+_solve_time = 22.48
+
+Index = 50
+_solve_time = 11.704
+
+Index = 54
+_solve_time = 24.704
+
+Index = 12
+_solve_time = 8.196
+
+Index = 54
+_solve_time = 18.356
+
+Index = 54
+_solve_time = 18.124
+

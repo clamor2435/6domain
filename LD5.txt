@@ -1,0 +1,300 @@
+Index = 138
+_solve_time = 251.536
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 19.092
+
+Index = 0
+_solve_time = 0
+
+Index = 94
+_solve_time = 145.64
+
+Index = 0
+_solve_time = 0
+
+Index = 96
+_solve_time = 223.128
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 108
+_solve_time = 197.648
+
+Index = 0
+_solve_time = 0
+
+Index = 132
+_solve_time = 230.06
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 116
+_solve_time = 112.676
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 132
+_solve_time = 203.052
+
+Index = 0
+_solve_time = 0
+
+Index = 132
+_solve_time = 183.048
+
+Index = 0
+_solve_time = 0
+
+Index = 110
+_solve_time = 190.36
+
+Index = 0
+_solve_time = 0
+
+Index = 108
+_solve_time = 221.36
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 21.512
+
+Index = 92
+_solve_time = 121.12
+
+Index = 96
+_solve_time = 136.344
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 92
+_solve_time = 136.888
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 118
+_solve_time = 274.068
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 130
+_solve_time = 239.32
+
+Index = 112
+_solve_time = 181.632
+
+Index = 116
+_solve_time = 216.768
+
+Index = 0
+_solve_time = 0
+
+Index = 106
+_solve_time = 197.832
+
+Index = 92
+_solve_time = 127.684
+
+Index = 128
+_solve_time = 275.46
+
+Index = 0
+_solve_time = 0
+
+Index = 134
+_solve_time = 160.176
+
+Index = 138
+_solve_time = 207.148
+
+Index = 0
+_solve_time = 0
+
+Index = 112
+_solve_time = 254.86
+
+Index = 132
+_solve_time = 215.308
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 134
+_solve_time = 271.332
+
+Index = 0
+_solve_time = 0
+
+Index = 134
+_solve_time = 243.804
+
+Index = 0
+_solve_time = 0
+
+Index = 116
+_solve_time = 211.508
+
+Index = 0
+_solve_time = 0
+
+Index = 110
+_solve_time = 148.348
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 136
+_solve_time = 230.292
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 20.708
+
+Index = 132
+_solve_time = 194.328
+
+Index = 132
+_solve_time = 193.84
+
+Index = 94
+_solve_time = 115.368
+
+Index = 132
+_solve_time = 2621.65
+
+Index = 92
+_solve_time = 129.716
+
+Index = 110
+_solve_time = 208.56
+
+Index = 112
+_solve_time = 162.876
+
+Index = 116
+_solve_time = 145.996
+
+Index = 0
+_solve_time = 0
+
+Index = 112
+_solve_time = 138.476
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 94
+_solve_time = 133.476
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 21.024
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 94
+_solve_time = 169.848
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 0
+_solve_time = 0
+
+Index = 118
+_solve_time = 142.268
+
+Index = 110
+_solve_time = 130.46
+
