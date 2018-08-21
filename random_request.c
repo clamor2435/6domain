@@ -5,8 +5,9 @@
 #define CHARA 256 /*一行の最大文字バイト数*/
 
 /*↓ここを変更*/
-#define Node 42 /*全ノード数*/
-#define Index 4 /*最高要求スロット数*/
+#define Node 6 //発ノード、着ノードになるのはノード番号1～6まで。
+//6-domain.txt の内容を参照。
+#define Index 4 //最高要求スロット数*/
 /*↑ここを変更*/
 
 int randomize(int request){
