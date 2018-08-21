@@ -36,6 +36,6 @@ int main(int argc, char *argv[]){
   printf("data %d.dat;\n",request);
   printf("solve;\n");
   printf("option omit_zero_rows 1, display_1col 1000;\n");
-  printf("display Index, _solve_time >> LD%d.txt ;\n",request);
+  printf("display Index, _solve_time, xp, xb >> LD%d.txt ;\n",request);
   return(0);
 }
