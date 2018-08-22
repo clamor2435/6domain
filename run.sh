@@ -1,15 +1,15 @@
 #/usr/bin/bash
 
-i="2"
-while [ $i -le 25 ]
+i="1"
+while [ $i -le 3 ]
   do
   j="1"
-  while [ $j -le 100 ]
+  while [ $j -le 3 ]
       do
-        ./random $i >$i.dat
+        ./random_request $i >$i.dat
         ./runDD $i > run
         ampl run
-        echo DD request=$i $j = times 
+        echo DD request=$i $j = times
         ./runLD $i > run
         ampl run
         echo LD request=$i $j =  times

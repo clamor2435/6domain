@@ -34,11 +34,11 @@ int main(int argc, char *argv[]){
   int request;/*リクエスト数入力*/
   int k = 0;
   FILE *fp; /*FILE型の構造体*/
-  char fname[] = "6-node_data.txt";/*ファイル名入力*/
+  char fname[] = "6-domain.txt";/*ファイル名入力*/
   char str[CHARA];
   request = atoi(argv[1]);
   /*scanf("%d",&request);リクエスト数入力*/
-  printf("param R := %d;\n",request);/*リクエスト数出力*/
+  printf("param R :=%d;\n",request);/*リクエスト数出力*/
   fp = fopen(fname,"r");
 
   while(fgets(str,CHARA,fp) != NULL){/*6-node_data.txt内容を出力*/

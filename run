@@ -1,7 +1,7 @@
 option solver cplexamp;
-model EON_LD.mod
+model EON_DD.mod;
 
-data 16.dat;
+data 7.dat;
 solve;
 option omit_zero_rows 1, display_1col 1000;
-display Index, _solve_time, xp, xb >> LD16.txt;
+display Index, _solve_time, xp, xb, r >> DD7.txt ;
