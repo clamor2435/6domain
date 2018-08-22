@@ -1,7 +1,7 @@
 #/usr/bin/bash
 
 i="1"
-while [ $i -le 333 ]
+while [ $i -le 3 ]
   do
   j="1"
   while [ $j -le 3 ]
