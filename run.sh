@@ -6,10 +6,10 @@ while [ $i -le 25 ]
   j="1"
   while [ $j -le 100 ]
       do
-        ./random $i >$i.dat
+        ./random_request $i >$i.dat
         ./runDD $i > run
         ampl run
-        echo DD request=$i $j = times 
+        echo DD request=$i $j = times
         ./runLD $i > run
         ampl run
         echo LD request=$i $j =  times
